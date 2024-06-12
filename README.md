@@ -123,5 +123,14 @@ You can download this repository to your local machine using the command line in
   ```bash
    wget https://github.com/username/repository-name/archive/main.zip
    ```
-  <h4>Thank you for visiting my Repository !Happy coding!</h4>
+## Contact
+
+If you have any questions, suggestions, or just want to connect, feel free to reach out:
+
+- **GitHub**: [husainhakim](https://github.com/husainhakim)
+- **Email**: 2023.husainh@isu.ac.in
+
+---
+
+Thank you for visiting my LeetCode Sync repository. Happy coding!
 
